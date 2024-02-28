@@ -19,7 +19,7 @@ Connect With Me!
 
 <h1 align="center">Hi 👋, I'm Gitik Raj Jindal</h1>
 <h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
-<img align="right" src="https://camo.githubusercontent.com/886eb42c1ec378ae23091ca6b34791dda90521ceb21750f8f6cf2ab749a17f36/68747470733a2f2f692e726564642e69742f627078787171767073346839312e676966" alt="pikapool2402" height="auto" data-canonical-src="https://i.redd.it/bpxxqqvps4h91.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitikraj&label=Profile%20views&color=0e75b6&style=flat" alt="gitikraj" /> </p>
 
 - 🌱 I’m currently learning **Javascript,Node.js**
@@ -27,6 +27,9 @@ Connect With Me!
 - 👯 I’m looking to collaborate on **Web-development, Data Science and Algorithms**
 
 - 📫 How to reach me **gjindal_be22@thapar.edu**
+
+<img align="right" src="https://camo.githubusercontent.com/886eb42c1ec378ae23091ca6b34791dda90521ceb21750f8f6cf2ab749a17f36/68747470733a2f2f692e726564642e69742f627078787171767073346839312e676966" alt="pikapool2402" height="auto" data-canonical-src="https://i.redd.it/bpxxqqvps4h91.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
