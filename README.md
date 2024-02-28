@@ -15,6 +15,7 @@
 📫 How to reach me? Email - gjindal_be22@thapar.edu
 
 Connect With Me!
+-->
 
 <h1 align="center">Hi 👋, I'm Gitik Raj Jindal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
