@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gitik Raj Jindal
+
 <!--
 **gitikraj/gitikraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Connect With Me!
 -->
 
 <h1 align="center">Hi 👋, I'm Gitik Raj Jindal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitikraj&label=Profile%20views&color=0e75b6&style=flat" alt="gitikraj" /> </p>
 
