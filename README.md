@@ -21,12 +21,14 @@ Connect With Me!
 <h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitikraj&label=Profile%20views&color=0e75b6&style=flat" alt="gitikraj" /> </p>
+-🔭 I’m currently working on **Software Engineering Project**.
 
 - 🌱 I’m currently learning **Javascript, Node.js, Data Science and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web-development**
 
 - 📫 How to reach me **gjindal_be22@thapar.edu**
+
 
 <img align="right" src="https://camo.githubusercontent.com/886eb42c1ec378ae23091ca6b34791dda90521ceb21750f8f6cf2ab749a17f36/68747470733a2f2f692e726564642e69742f627078787171767073346839312e676966" alt="gitikraj" height="auto" data-canonical-src="https://i.redd.it/bpxxqqvps4h91.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
