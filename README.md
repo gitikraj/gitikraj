@@ -21,9 +21,11 @@ Connect With Me!
 <h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitikraj&label=Profile%20views&color=0e75b6&style=flat" alt="gitikraj" /> </p>
+ 
+
 -🔭 I’m currently working on **Software Engineering Project**.
 
-- 🌱 I’m currently learning **Javascript, Node.js, Data Science and Algorithms**
+-  🌱 I’m currently learning **Javascript, Node.js, Data Science and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web-development**
 
